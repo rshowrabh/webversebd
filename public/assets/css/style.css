@@ -1,0 +1,7 @@
+.hero-section ul {
+    list-style-type: disclosure-closed;
+    padding-left: 2rem!important;
+}
+.header-logo img{
+    width: 13rem;
+}
